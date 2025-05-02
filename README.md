@@ -14,6 +14,7 @@ There were 5 data science questions I answered during this project:
 
 ## Project Files
 You can find 1 project file in this GitHub repository:
+
 **James McGinty - Project 2.ipynb** is a Jupyter Notebook that scrapes team offensive statistics from Pro Football Reference, cleans the data, and performs data analysis. The notebook answers all five data science questions using Python, Pandas, and Seaborn. Plots include data labels, appropriate styling, and clear titles to support the analysis.
 
 ## Data Source
